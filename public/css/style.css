@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 :root {
-	--dark-color-a: #FA8072;
-	--dark-color-b: #87CEEB;
-	--light-color: hsl(233, 100%, 95%);
+	--dark-color-a: #222831;
+	--dark-color-b: #00adb5;
+	--light-color: #eeeeee;
 	--success-color: #5cb85c;
 	--error-color: #d9534f;
 }
@@ -195,9 +195,15 @@ a {
 #Emergency{
 	margin: auto;
   width: 50%;
-  border: 3px solid green;
-  padding: 10px;
+  background-color: #8ddade;
+  border: 3px solid #393e46;
+  padding: 20px;
 }
 #Emer-text{
 	text-align: center;
+}
+#emer-btn{
+	align:center;
+	F
+	/* float:center; */
 }
